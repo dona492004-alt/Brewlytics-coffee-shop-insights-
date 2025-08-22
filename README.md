@@ -1,20 +1,81 @@
-# Coffee Shop Analysis & Insights ☕
+Coffee Shop Sales Analysis ☕📊
 
-📊 A data analytics project for a coffee shop, showing sales trends, top products, and customer insights.  
-Great for practicing **data analysis, visualization, and storytelling**.
+📌 Project Overview
 
-## Features
-- Daily, weekly, and monthly sales insights
-- Top-selling drinks & categories
-- Customer purchase behavior
-- Visual dashboards with Matplotlib/Seaborn
+This project analyzes coffee shop sales data to uncover insights such as daily revenue trends, top-selling drinks, and revenue by product.
+It is designed as a beginner-friendly data analytics portfolio project using Python.
 
-## Tech Stack
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/coffee-shop-insights.git
-   cd coffee-shop-insights
+⚙️ Tools & Libraries
+
+Python 🐍
+
+Pandas → Data cleaning & analysis
+
+Matplotlib & Seaborn → Data visualization
+
+
+📂 Dataset
+
+The dataset used is coffee_sales.csv which contains:
+
+date → Date of transaction
+
+product → Drink sold
+
+quantity → Number of cups sold
+
+price → Price per cup
+
+
+🔎 Analysis Performed
+
+1. Daily Revenue → Total revenue earned each day
+
+
+2. Top-Selling Drinks → Which products were sold the most
+
+
+3. Revenue by Product → Which drinks contributed the most revenue
+
+
+
+📊 Sample Visualizations
+
+Daily revenue line chart
+
+Bar chart of top-selling drinks
+
+Revenue by product chart
+
+
+(You can run the code to generate these plots)
+
+
+🚀 How to Run This Project
+
+1. Clone this repository or download files
+
+git clone https://github.com/your-username/coffee-shop-analysis.git
+cd coffee-shop-analysis
+
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+
+3. Run the script
+
+python coffee_shop_analysis.py
+
+
+🎯 Skills Demonstrated
+
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Data Visualization & Insights
+
+Python Scripting for Analytics
