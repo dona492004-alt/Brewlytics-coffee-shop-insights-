@@ -1,0 +1,11 @@
+date,product,quantity,price
+2025-01-01,Latte,20,3.5
+2025-01-01,Cappuccino,15,3.0
+2025-01-01,Espresso,10,2.5
+2025-01-02,Latte,25,3.5
+2025-01-02,Cappuccino,18,3.0
+2025-01-02,Espresso,12,2.5
+2025-01-03,Mocha,14,4.0
+2025-01-03,Latte,28,3.5
+2025-01-03,Cappuccino,20,3.0
+2025-01-03,Espresso,15,2.5
